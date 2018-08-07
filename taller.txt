@@ -1,15 +1,16 @@
-Unificar los siguientes archivos en un solo dataset: xaa.csv  xab.csv  xac.csv  xad.csv  xae.csv  xaf.csv  xag.csv
+**Unificar los siguientes archivos en un solo dataset: xaa.csv  xab.csv  xac.csv  xad.csv  xae.csv  xaf.csv  xag.csv
 
-- Al atributo peso tranformarlo a un tipo de datos float
-- Obtener un dataset en base a un cantón de nacimiento del siguiente listado (usted debe generar
+**- Al atributo peso tranformarlo a un tipo de datos float
+**- Obtener un dataset en base a un cantón de nacimiento del siguiente listado (usted debe generar
 un combobox)
 
-u'Salinas', u'Santa Elena', u'Guayaquil', u'La Libertad',u'Mejia', u'Pangua', u'Sigchos
+**u'Salinas', u'Santa Elena', u'Guayaquil', u'La Libertad',u'Mejia', u'Pangua', u'Sigchos
 
-- Obtener un dataset que permita obtener todos los nacimientos mayores al día 15 y que pertenezcan a una provincia de la región costa (usted debe generar
+**- Obtener un dataset que permita obtener todos los nacimientos mayores al día 15 y que pertenezcan a una provincia de la región costa (usted debe generar
 un combobox o varios)
 
-- Obtener un dataset que permita obtener todos los nacimientos en base a la selección del tipo de parto y las provincias de la sierra (usted debe generar
+
+**- Obtener un dataset que permita obtener todos los nacimientos en base a la selección del tipo de parto y las provincias de la sierra (usted debe generar
 un combobox o varios)
 
 - Obtener un gráfico que me permita vizualizar los nacimientos en base al atributo tipo_instruccion
